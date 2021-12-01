@@ -1,0 +1,40 @@
+body {
+    width: 90%;
+    max-width: 750px;
+    margin: auto;
+    background: url(img/bg.jpg) center;
+    font-family: sans-serif;
+    color: white;
+    line-height: 1.5;
+}
+
+main {
+    background-color: rgba(0, 0, 0, 0.404);
+    border-radius: 10px;
+    padding: 40px;
+    margin-top: 16px;
+}
+
+.logo, .band-name, .headline  {
+    text-align: center;
+    margin: 0px;
+}
+
+.shows {
+    margin: 30px 0;
+    text-align: center;
+    width: 100%;
+}
+
+.shows table {
+    background-color: rgba(255, 0, 0, 0.294);
+    border-radius: 10px;
+    margin: auto;
+}
+
+footer {
+    background-color: rgba(255, 255, 255, 0.397);
+    color: black;
+    text-align: center;
+
+}
